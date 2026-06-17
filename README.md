@@ -16,9 +16,8 @@ Performance-driven Cybersecurity and Infrastructure professional with over **8 y
 
 ### 📜 Certifications & Training
 
-[![Network+](.assets/badges/network.svg)](https://www.credly.com/badges/97e78ff8-f5d5-4a68-8dd8-0676b18da1a6/public_url)
-[![Cloud+](.assets/badges/cloud.svg)](https://www.credly.com/badges/97e78ff8-f5d5-4a68-8dd8-0676b18da1a6/public_url)
-[![CCAP](.assets/badge/ccap.png)]
+<a href="https://www.credly.com/badges/97e78ff8-f5d5-4a68-8dd8-0676b18da1a6/public_url"><img src="X:\Desktop\image\badge\ccap.png" height="28"></a>
+<a href="https://www.credly.com/badges/97e78ff8-f5d5-4a68-8dd8-0676b18da1a6/public_url"><img src="X:\Desktop\image\badge\ccap.png" height="28"></a>
 
 *   **Active Infrastructure Stack**: CompTIA Network+, CompTIA Cloud+, CompTIA Cloud Admin Professional (**Valid 2026 - 2029**)
 *   **In Progress**: CompTIA CySA+ • Microsoft Azure Administrator (AZ-104)
