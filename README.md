@@ -92,5 +92,5 @@ Performance-driven Cybersecurity and Infrastructure professional with over **8 y
 
 I am actively seeking opportunities in **Security Operations (SOC), Digital Forensics (DFIR), or Cloud Security Systems**. If you are looking for a dedicated analyst with an investigative mindset, let's chat!
 
-*   💼 **LinkedIn**: linkedin.com
+*   💼 **LinkedIn**: linkedin.com/in/faizulafeef
 *   📧 **Email**: f.afeef.c@gmail.com
