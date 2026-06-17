@@ -16,21 +16,12 @@ Performance-driven Cybersecurity and Infrastructure professional with over **8 y
 
 ### 📜 Certifications & Training
 
-<a href="https://www.credly.com/badges/97e78ff8-f5d5-4a68-8dd8-0676b18da1a6/public_url"><img src="X:\Desktop\image\badge\ccap.png" height="28"></a>
-<a href="https://www.credly.com/badges/97e78ff8-f5d5-4a68-8dd8-0676b18da1a6/public_url"><img src="X:\Desktop\image\badge\ccap.png" height="28"></a>
-
 *   **Active Infrastructure Stack**: CompTIA Network+, CompTIA Cloud+, CompTIA Cloud Admin Professional (**Valid 2026 - 2029**)
 *   **In Progress**: CompTIA CySA+ • Microsoft Azure Administrator (AZ-104)
 *   **Forensic Certifications**: Cellebrite CCME, CCPA, CCO (2018 – 2020) • Fiber Optic & Copper Network Competency (2016 - 2021)
 *   **Specialized Training**: EnCase DF120 & DF240 • First Responder Training (UCD Centre for Cybersecurity) • Expert Witness & Forensic Investigation (AGC Malaysia) • ISO/IEC 17025:2017 Implementation & Risk Assessment
 
 ### 🧰 Core Skills & Platforms
-
-![Splunk](https://shields.io)
-![Azure](https://shields.io)
-![Linux](https://shields.io)
-![Cisco](https://shields.io)
-![Wireshark](https://shields.io)
   
 *   **Security Operations**: Incident Response (IR) • Threat Detection & Monitoring • Log & Traffic Analysis • Endpoint Security • Digital Forensics (DFIR) • Compliance Auditing (ISO/IEC 17025)
 *   **Platforms & Tools**: Splunk (SIEM) • Wireshark • Active Directory • FTK • EnCase • Cellebrite • Cisco IOS • Python • C++
