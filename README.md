@@ -2,7 +2,7 @@
 
 ### 🛡️ Digital Forensics & Incident Response (DFIR) | Infrastructure Specialist
 
-📍 Kuala Lumpur, Malaysia • ✉️ f.afeef.c@gmail.com • 💼 LinkedIn Profile
+📍 Kuala Lumpur, Malaysia • ✉️ f.afeef.c@gmail.com • 💼 linkedin.com/in/faizulafeef/
 
 * * *
 
