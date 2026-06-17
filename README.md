@@ -16,8 +16,9 @@ Performance-driven Cybersecurity and Infrastructure professional with over **8 y
 
 ### 📜 Certifications & Training
 
-  
-  
+[![Network+](https://shields.io)](https://www.credly.com/badges/97e78ff8-f5d5-4a68-8dd8-0676b18da1a6/public_url)
+[![Cloud+](https://shields.io)]
+[![CCAP](https://shields.io)]
 
 *   **Active Infrastructure Stack**: CompTIA Network+, CompTIA Cloud+, CompTIA Cloud Admin Professional (**Valid 2026 - 2029**)
 *   **In Progress**: CompTIA CySA+ • Microsoft Azure Administrator (AZ-104)
@@ -26,11 +27,12 @@ Performance-driven Cybersecurity and Infrastructure professional with over **8 y
 
 ### 🧰 Core Skills & Platforms
 
+![Splunk](https://shields.io)
+![Azure](https://shields.io)
+![Linux](https://shields.io)
+![Cisco](https://shields.io)
+![Wireshark](https://shields.io)
   
-  
-  
-  
-
 *   **Security Operations**: Incident Response (IR) • Threat Detection & Monitoring • Log & Traffic Analysis • Endpoint Security • Digital Forensics (DFIR) • Compliance Auditing (ISO/IEC 17025)
 *   **Platforms & Tools**: Splunk (SIEM) • Wireshark • Active Directory • FTK • EnCase • Cellebrite • Cisco IOS • Python • C++
 
